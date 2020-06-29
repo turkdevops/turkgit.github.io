@@ -1,5 +1,1 @@
---- #Turkgit Hakkında
-- site oluşturma
-- belge yayınlama
-- dağıtma
----
+
